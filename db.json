@@ -1,0 +1,110 @@
+{
+    "projects": [
+        {
+            "title": "Search Country project",
+            "description": "Search for any country using letters or name with JavaScript",
+            "image": "../imgs/wcl.JPG",
+            "link": "www.sdasd.sss"
+        },
+        {
+            "title": "Country project",
+            "description": "  Search for any country using letters or name with JavaScript",
+            "image": "../imgs/wcl.JPG",
+            "link": "www.sdasd.sss"
+        }
+    ],
+    "resume": [
+        {
+            "name": "Faculty of Education Assiut University, Assiut University",
+            "logo": "fa-solid fa-user-graduate",
+            "date": "Jun 2018 – Jul 2023",
+            "descrption": "good, Computer/Information Technology Administration and Management"
+        },
+        {
+            "name": "Udacity Web Development Professional TRACK 2022",
+            "logo": "fa-solid fa-graduation-cap",
+            "date": "Oct 2022 – Present (2 mos)",
+            "descrption": "Working on server side REST APIs ,NODE JS , express , Agile mindset."
+        },
+        {
+            "name": "Front-end Developer, Information Technology Institute (ITI)",
+            "logo": "fa-solid fa-user-graduate",
+            "date": "Jun 2022 – Jul 2022 (2 mos)",
+            "descrption": "HTML/CSS development and managing the entire front-end usingBootstrap and JavaScript.Some experience with React and wireframing."
+        },
+        {
+            "name": "Udacity Web Development Challenger TRACK 2022",
+            "logo": "fa-solid fa-graduation-cap",
+            "date": "Aug 2022 – Sep 2022 (2 mos)",
+            "descrption": "Projects done: Created a website's dynamic homepage with mobile responsive interface.August 2022 | CXQWPEEP https://github.com/roone858/Main-Website"
+        }
+    ],
+    "services": [
+        {
+            "name": "eCommerce Store",
+            "logo": "fa-solid fa-shop"
+        },
+        {
+            "name": "Business Website",
+            "logo": "fa-solid fa-business-time"
+        },
+        {
+            "name": "Single Page Websites",
+            "logo": "fa-solid fa-file-arrow-up"
+        },
+        {
+            "name": "Educational Website",
+            "logo": "fa-solid fa-award"
+        },
+        {
+            "name": "Python Dynamic Website",
+            "logo": "fa-brands fa-python"
+        },
+        {
+            "name": "Python UI Design",
+            "logo": "fa-solid fa-user"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "css",
+            "value": 80
+        },
+        {
+            "skill": "html",
+            "value": 90
+        },
+        {
+            "skill": "Bootstrap",
+            "value": 80
+        },
+        {
+            "skill": "React.js",
+            "value": 70
+        },
+        {
+            "skill": "Node.js",
+            "value": 60
+        },
+        {
+            "skill": "express",
+            "value": 50
+        },
+        {
+            "skill": "python",
+            "value": 90
+        },
+        {
+            "skill": "Javascript",
+            "value": 90
+        },
+        {
+            "skill": "cpp",
+            "value": 60
+        },
+        {
+            "skill": "agile",
+            "value": 90
+        }
+    ]
+}
